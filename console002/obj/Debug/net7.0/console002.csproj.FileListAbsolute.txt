@@ -1,0 +1,15 @@
+C:\Games\Desktop\C#lesson1\console002\bin\Debug\net7.0\console002.exe
+C:\Games\Desktop\C#lesson1\console002\bin\Debug\net7.0\console002.deps.json
+C:\Games\Desktop\C#lesson1\console002\bin\Debug\net7.0\console002.runtimeconfig.json
+C:\Games\Desktop\C#lesson1\console002\bin\Debug\net7.0\console002.dll
+C:\Games\Desktop\C#lesson1\console002\bin\Debug\net7.0\console002.pdb
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.csproj.AssemblyReference.cache
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.AssemblyInfoInputs.cache
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.AssemblyInfo.cs
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.csproj.CoreCompileInputs.cache
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.dll
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\refint\console002.dll
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.pdb
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\console002.genruntimeconfig.cache
+C:\Games\Desktop\C#lesson1\console002\obj\Debug\net7.0\ref\console002.dll
